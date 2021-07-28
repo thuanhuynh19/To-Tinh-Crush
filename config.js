@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Tên người yêu bạn à!',
+    introTitle: 'Aiu ààààààààààààà',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    Mà sao anh cứ đi nhầm đường
+    Lạc vào tim em lẻ loi
+    Đằng sau chữ iu đây là thươnggggg`,
+    btnIntro: 'hehe',
+    title: 'Phải chăng em đã iu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnYes: 'Vẫn cứ là iu eimmm <33',
+    btnNo: 'Hông, em gái à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại iu eim <3',
+    btnReply: 'Gửi cho eim iuu <3',
+    reply: 'iu thì iu mà hong iu thì iu <33333333',
+    mess: 'Eim biết mà 🥰 iu anh nhèo nhèo 😘😘 chúc aiu sinh nhật dzui dzẻ nè ^^ tủi mới sẽ iu eim nhèo hơn mụt chút nữa nhaaaa😘😘😘',
+    messDesc: 'Moa moa moa moaaa',
+    btnAccept: 'iu eimmmm <3',
+    messLink: 'https://bitly.com.vn/7qpivx' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
