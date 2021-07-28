@@ -1,13 +1,9 @@
 const CONFIG = {
     introTitle: 'Aiu àààààààààààààà <3',
-    introDesc: `Người sẽ bên anh nhé
-Chẳng bao giờ cách xa
-Người sẽ bên anh mãi
-Chẳng điều gì có thể sánh vai
-Trái tim nay thề suốt kiếp
-Mình bước tiếp tình yêu này sẽ thành câu
-Nắng mưa nhuộm màu nối tiếp
-Lời sẽ hết dù đâu ai biết đượcccc`,
+    introDesc: `Trái đất vốn lạ thường
+Mà sao em cứ đi nhầm đường
+Lạc vào tim anh lẻ loi
+Đằng sau chữ yêu đây là thươnggggg`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
